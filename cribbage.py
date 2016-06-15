@@ -17,6 +17,8 @@ HAND="hand"
 PEG="peg"
 CRIB="crib"
 
+print "hand"
+
 class Player:
     def __init__(self, name):
         self.name = name
